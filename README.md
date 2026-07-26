@@ -117,7 +117,7 @@ All outputs (cleaned CSV, aggregated tables, data quality log, charts) will be s
 - **APAC** — $332M | 18% of portfolio | ADR $446
 
 ### Channel Opportunity
-- Direct channels (FS Website, Reservations Office) command **3× the ADR** of the Sales Office ($1,069 vs $380)
+- Direct channels (Brand Website, Reservations Office) command **3× the ADR** of the Sales Office ($1,069 vs $380)
 - Shifting existing bookings from indirect to direct channels is the single biggest rate optimization lever
 
 ---
