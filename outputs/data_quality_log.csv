@@ -1,0 +1,12 @@
+Issue,Record Count,Severity,Recommendation
+Null: market_code,1,Low,Impute to UNKNOWN or investigate upstream
+Null: source_code,7,Low,Flag as Admin/Other; validate with IT
+Null: guest_country,38513,Medium,5.6% of rows; may affect geographic reporting
+Null: guest_generation,6719,Low,1% missing; impute as Unknown
+Null: Room_revenue,19255,High,19K rows with no revenue — exclude from KPIs
+Negative Room_revenue,2836,High,Likely adjustments/cancellations; separate in reporting
+Zero Room_revenue,53431,High,Complimentary stays inflate room nights; exclude from ADR
+Hotel ref: missing name,1,Medium,"MAD, MKN, CIB incomplete — validate before publish"
+Hotel ref: missing type,3,Medium,U/R flag missing; affects Urban vs Resort split
+Inactive hotels with stays,0,Medium,Stays recorded against closed properties
+Suspicious market codes,14,Medium,"Codes like ., ?, {NULL}, FIXME present in ref table"
