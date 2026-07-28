@@ -164,7 +164,9 @@ The dashboard has 3 audience-specific pages:
 | Regional Insights | Regional VPs | Subregion bar, ADR comparison, channel ADR, YoY matrix |
 | Property Overview | General Managers | Top 10 properties, guest generation, travel purpose, room mix |
 
-Screenshots available in `dashboard_screenshots/` folder.
+> **Note:** The Power BI file (.pbix) is not included in this repository 
+> as it contains embedded proprietary data.
+> Dashboard screenshots are available in the `PowerBI_Dashboard_Screenshots/` folder.
 
 > **Data Notice:** Data used in this project was provided as part of a case study exercise. All figures shown are aggregated KPIs — no individual guest or transaction data is included.
 
