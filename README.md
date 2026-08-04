@@ -169,7 +169,7 @@ The dashboard has 3 audience-specific pages:
 
 Screenshots available in `dashboard_screenshots/` folder.
 
-> **Data Notice:** Data used in this project is anonymised hospitality stay data. All figures shown are aggregated KPIs — no individual guest or transaction data is included.
+> **Data Notice:** Data used in this project is anonymised hospitality stay data. All figures shown are aggregated KPIs - no individual guest or transaction data is included.
 
 ---
 
