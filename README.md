@@ -1,4 +1,4 @@
-# Global Luxury Hospitality — Enterprise Performance Analysis
+# Global Luxury Hospitality - Enterprise Performance Analysis
 
 A personal analytics project exploring how luxury hospitality 
 portfolios can use data to drive enterprise performance decisions. 
