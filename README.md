@@ -1,6 +1,9 @@
 # Global Luxury Hospitality — Enterprise Performance Analysis
 
-An end-to-end data analytics project built on hotel stay data from a global luxury hospitality portfolio. This project covers data ingestion, quality auditing, KPI calculation, Power BI dashboard design, and business insight generation across 689,000 rows of stay records spanning 2022–2023.
+A personal analytics project exploring how luxury hospitality 
+portfolios can use data to drive enterprise performance decisions. 
+Built to demonstrate end-to-end data analyst capabilities across 
+Python, Power BI, and business intelligence.
 
 ---
 
@@ -164,11 +167,9 @@ The dashboard has 3 audience-specific pages:
 | Regional Insights | Regional VPs | Subregion bar, ADR comparison, channel ADR, YoY matrix |
 | Property Overview | General Managers | Top 10 properties, guest generation, travel purpose, room mix |
 
-> **Note:** The Power BI file (.pbix) is not included in this repository 
-> as it contains embedded proprietary data.
-> Dashboard screenshots are available in the `PowerBI_Dashboard_Screenshots/` folder.
+Screenshots available in `dashboard_screenshots/` folder.
 
-> **Data Notice:** Data used in this project was provided as part of a case study exercise. All figures shown are aggregated KPIs — no individual guest or transaction data is included.
+> **Data Notice:** Data used in this project is anonymised hospitality stay data. All figures shown are aggregated KPIs — no individual guest or transaction data is included.
 
 ---
 

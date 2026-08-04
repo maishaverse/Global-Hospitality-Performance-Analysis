@@ -7,4 +7,4 @@ Place the following raw input files here before running analysis.py:
 - Ref_Market.csv
 - Ref_Channel.csv
 
-These files are not included in the repository as they contain proprietary data.
+These files are not included in the repository as they contain anonymised hospitality data that is not redistributable.

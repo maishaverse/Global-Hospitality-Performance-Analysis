@@ -1,13 +1,17 @@
 """
 Global Luxury Hospitality — Enterprise Performance Analysis
-Portfolio Project | Data Analyst
+Personal Analytics Project | Maisha Khatoon
 
-Author: Maisha Khatoon
-Tools: Python (pandas, matplotlib), Power BI
+Tools: Python (pandas, matplotlib), Power BI, DAX
 Description:
-    End-to-end hospitality analytics pipeline — data ingestion, quality audit,
-    KPI calculation across 12 dimensions, and chart generation.
-    Processes ~689K rows of hotel stay data across 2022-2023.
+    An independent exploration of enterprise performance reporting 
+    for a global luxury hospitality portfolio. This project addresses 
+    a real industry challenge: how do you build a reporting framework 
+    that serves Executive, Regional, and Property leadership audiences 
+    from a single dataset of 689K hotel stay records?
+
+    Pipeline covers data ingestion, quality auditing, KPI calculation 
+    across 12 dimensions, and chart generation for validation.
 """
 
 # HOW TO READ THIS SCRIPT
