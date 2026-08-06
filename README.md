@@ -76,7 +76,7 @@ Design an enterprise performance reporting framework that answers different ques
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/maishaverse/hospitality-performance-analysis.git
+git clone https://github.com/maishaverse/global-hospitality-performance-analysis.git
 cd hospitality-performance-analysis
 ```
 
