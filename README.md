@@ -1,4 +1,4 @@
-# Global Luxury Hospitality - Enterprise Performance Analysis
+# Global Luxury Hospitality — Enterprise Performance Analysis
 
 A personal analytics project exploring how luxury hospitality 
 portfolios can use data to drive enterprise performance decisions. 
@@ -76,7 +76,7 @@ Design an enterprise performance reporting framework that answers different ques
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/hospitality-performance-analysis.git
+git clone https://github.com/maishaverse/hospitality-performance-analysis.git
 cd hospitality-performance-analysis
 ```
 
@@ -169,7 +169,7 @@ The dashboard has 3 audience-specific pages:
 
 Screenshots available in `dashboard_screenshots/` folder.
 
-> **Data Notice:** Data used in this project is anonymised hospitality stay data. All figures shown are aggregated KPIs - no individual guest or transaction data is included.
+> **Data Notice:** Data used in this project is anonymised hospitality stay data. All figures shown are aggregated KPIs — no individual guest or transaction data is included.
 
 ---
 
